@@ -1,5 +1,8 @@
-package com.lzh.javaDemo;
+package com.lzh.demo;
 
+/**
+ * @author lizhenghua
+ */
 
 public class Generic<T> {
 
